@@ -65,10 +65,10 @@ Once the script is done iterating through each ticker and printing the outputs, 
 ```
 
 The original code for 2017 ran in .867 seconds.
-![original_stocks_analysis_2017](Resources\original_stocks_analysis_2017.png)
+![original_stocks_analysis_2017](Resources/original_stocks_analysis_2017.png)
 
 The original code for 2018 ran in .84 seconds.
-![original_stocks_analysis_2018](Resources\original_stocks_analysis_2018.png)
+![original_stocks_analysis_2018](Resources/original_stocks_analysis_2018.png)
 
 ### Refactored Code
 
@@ -134,10 +134,10 @@ With the output sheet now populated by accessing the arrays using the ticker ind
 
 The changes to the code yielded positive results in the performance.  An analysis for 2017 stocks now runs in .078 seconds.
 
-![VBA_Challenge_2017](Resources\VBA_Challenge_2017.png)
+![VBA_Challenge_2017](Resources/VBA_Challenge_2017.png)
 
 An analysis for 2018 stocks now runs in .094 seconds.
-![VBA_Challenge_2018](Resources\VBA_Challenge_2018.png)
+![VBA_Challenge_2018](Resources/VBA_Challenge_2018.png)
 
 ## Summary
 
